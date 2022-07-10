@@ -13,3 +13,5 @@ the rest of the attachments required are provided in the zip folder(excel file f
 Data cannot be added if the .xlx file or mysql is running in the background as it may not fetch
 the values properly or it may fetch them partially into the system/file.
 
+Make sure to make a excel file in same folder to save data in excel sheet the name of the file should be "Data2.xls" make a folder name "Bills" to save each reciept in txt format and salesreport file to project sales in html format.
+
